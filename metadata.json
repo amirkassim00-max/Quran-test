@@ -1,0 +1,6 @@
+{
+  "name": "Quran Audio",
+  "description": "A lightweight, battery-optimized Quran companion featuring audio background playback, offline reciting, search, and verse bookmarking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
